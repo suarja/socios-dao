@@ -1,5 +1,7 @@
 # 🔗 Socios DAO - Réinventer l'engagement des fans par la Blockchain (FR)
 
+![diagram](https://github.com/user-attachments/assets/5bb2b5d0-6f19-4125-b572-0c5ce1594984)
+
 Bienvenue dans le dépôt de **Socios DAO** : un protocole décentralisé pour transformer la relation clubs-supporters à l'ère du Web3.
 
 ## 🔄 Vision
